@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🎁 BB CREATION - Gifting Advisor Chatbot
 A conversational AI assistant built with Streamlit for BB CREATION, a handmade gifting brand based in Sirsa, Haryana. This chatbot helps users browse, select, and order personalized gifts through a friendly and intuitive chat interface.
 
@@ -71,3 +72,7 @@ You can continue adding more items or proceed to checkout.
 Fill in your details in the checkout form to place your order.
 
 Made with ❤️ for BB CREATION.
+=======
+# Gifting-Chatbot
+A conversational AI assistant built with Streamlit for BB CREATION, a handmade gifting brand, to help users find and order personalized gifts.
+>>>>>>> bc8ac19f10bf3115f4439a24cd40d14bda0d2f41
